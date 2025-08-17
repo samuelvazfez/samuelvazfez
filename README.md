@@ -1,10 +1,6 @@
 ## Hi👋
 # About Me:
-Soy estudiante de último curso de Ingeniería Informática (mención en Tecnologías de la Información) en la UDC; actualmente, estoy finalizando
-el TFG y tengo previsto entregarlo en septiembre. Tengo conocimientos e interés en desarrollo full stack (Java, React, Python), administración
-de sistemas, despliegue en la nube (AWS), redes, inteligencia artificial, ciberseguridad y entornos Linux, además de muchas ganas de aprender.
-Me considero una persona sociable, resolutiva y con ganas de aprender en entornos profesionales, especialmente en roles presenciales de IT,
-desarrollo o cloud. Me gustaría hacer prácticas que me permitan salir de mi zona de confort.br>
+I’m a final-year Computer Engineering student (Information Technology track) at UDC. I’m currently finishing my final-year project and plan to submit it in September. I have knowledge of and interest in full-stack development (Java, React, Python), systems administration, cloud deployment (AWS), networking, artificial intelligence, cybersecurity, and Linux environments, and I’m eager to keep learning. I consider myself sociable, resourceful, and keen to grow in professional settings, especially in on-site IT, development, or cloud roles. I’d like to do an internship that pushes me out of my comfort zone.
 
 
 ## 🌐 Socials:
