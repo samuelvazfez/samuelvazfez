@@ -1,5 +1,5 @@
-## Hi there 👋
-# 💫 About Me:
+## Hi👋
+# About Me:
 Soy estudiante de último curso de Ingeniería Informática (mención en Tecnologías de la Información) en la UDC; actualmente, estoy finalizando
 el TFG y tengo previsto entregarlo en septiembre. Tengo conocimientos e interés en desarrollo full stack (Java, React, Python), administración
 de sistemas, despliegue en la nube (AWS), redes, inteligencia artificial, ciberseguridad y entornos Linux, además de muchas ganas de aprender.
