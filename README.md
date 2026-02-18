@@ -55,18 +55,12 @@ I enjoy understanding how systems work at a deep level — from networking and o
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Contribution Graph
 
-![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelvazfez&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelvazfez&layout=compact&theme=tokyonight)
+[![Samuel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=samuelvazfez)](https://github.com/samuelvazfez)
 
 ---
 
 ## 🌐 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samuel-vázquez-fernández)
-
----
-
-![Profile views](https://visitcount.itsvg.in/api?id=samuelvazfez&icon=5&color=6)
