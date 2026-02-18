@@ -4,6 +4,11 @@
 🔐 Currently pursuing a Master's Degree in Cybersecurity at UDC  
 💼 Working at INFOXES  
 
+## 🌐 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samuel-vázquez-fernández)
+
+
 ---
 
 ## 🚀 About Me
@@ -52,15 +57,3 @@ I enjoy understanding how systems work at a deep level — from networking and o
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black)
-
----
-
-## 📈 Contribution Graph
-
-[![Samuel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=samuelvazfez)](https://github.com/samuelvazfez)
-
----
-
-## 🌐 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samuel-vázquez-fernández)
