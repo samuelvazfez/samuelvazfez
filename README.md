@@ -1,8 +1,7 @@
 ## Hi there 👋 I'm Samuel
 
 🎓 Computer Engineering graduate (Information Technology) – Universidade da Coruña  
-🔐 Currently pursuing a Master's Degree in Cybersecurity at UDC  
-💼 Working at INFOXES  
+🔐 Currently pursuing a Master's Degree in Cybersecurity at UDC    
 
 ## 🌐 Connect with me
 
